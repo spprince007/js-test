@@ -1,0 +1,59 @@
+// var furits=['apple', 'banana', 'orange'];
+
+// furits.pop();
+// furits.push('mango');
+// console.log(furits);
+
+// var furits=['apple', 'banana', 'orange'];
+// var furitsIndex = furits.indexOf('banana');
+// furits[furitsIndex] = 'mango';
+// console.log(furits);
+// furits.pop();
+// console.log(furits);
+// furits.push('water milan');
+// console.log(furits);
+
+// var prince = 85;
+// var tom = 66;
+// var jane = 95;
+// var peter = 50;
+// var jon = 40;
+ 
+// if(prince>80){
+//     console.log("prince you got A")
+// }
+
+// var num1= 89;
+// var num2=75;
+// var num3=95;
+
+// if(num1<num2)
+
+// var i = 0;
+// for (i=0; i<5; i++){};
+// console.log(i);
+
+
+function work(){
+    var Karim=10;
+    var raim=23;
+
+    if(Karim<raim){
+        console.log(raim)
+    }
+    else{
+        console.log(Karim)
+    }
+}
+console.log("height no is:"); work();
+var Karim=10;
+var raim=23;
+
+if(Karim<raim){
+    console.log(raim)
+}
+else{
+    console.log(Karim)
+}
+
+ 
